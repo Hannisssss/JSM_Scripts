@@ -13,6 +13,9 @@ INNEHÅLL:
     → CSS som anpassar portalen, appliceras som web resource genom ScriptRunner
 - Groovy
     → Skript som skapar anpassade fält, appliceras genom ScriptRunner
+- Figma
+    → Nedan följer länken till Figma
+    → https://www.figma.com/board/f7yYMIleU4x5QC0TS0WGdT/Diagram?node-id=3186-1421&t=daFJqvcHoFr5oh47-1
 ---
 
    ÅTERSTÄLLNING OCH INSTALLATION:
