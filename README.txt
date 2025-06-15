@@ -6,8 +6,9 @@ Civilingenjör Datateknik
 ---
 
 INNEHÅLL:
-- csn-jsm-final-export-v1-20250610.xml  
+- csn-jsm-export-20250610.xml  
     → XML-export av hela Jira Service Management-projektet.  
+    → Importeras via Adminpanelen i Jira
 ---
 
 🔁 ÅTERSTÄLLNING OCH INSTALLATION:
