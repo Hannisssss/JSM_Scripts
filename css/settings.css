@@ -1,0 +1,49 @@
+/* Definiera CSN:s färgpalett */
+:root {
+  /* Primära identitetsfärger */
+  --csn-dark-purple: #30184c;
+  --csn-purple: #48266d;
+  --csn-red: #e4022d;
+  --csn-dark-red: #ba011e;
+  --csn-light-pink: #ede6f4;
+
+  /* Funktionella färger */
+  --csn-white: #ffffff;
+  --csn-bg-white: #f8f8f8;
+  --csn-black: #000000;
+
+  /* Sekundära färger */
+  --csn-pink: #ee7c7d;
+  --csn-yellow: #ffd164;
+  --csn-teal-light: #75c4c8;
+  --csn-teal: #3ccb82;
+  --csn-teal-dark: #00ba96;
+
+  /* Signalfärger */
+  --csn-cyan: #00cccc;
+  --csn-blue: #0d35c8;
+  --csn-orange: #ff7800;
+  --csn-magenta: #eb1e52;
+  --csn-dark-magenta: #aa1e67;
+  --csn-deep-magenta: #780a5a;
+  
+    /* Typografi */
+    --font-primary: 'Akkurat Pro', Arial, sans-serif;
+    --font-secondary: Arial, sans-serif;
+    --base-font-size: 16px;
+  
+    /* Avståndsskala */
+    --spacing-small: 4px;
+    --spacing-medium: 8px;
+    --spacing-large: 16px;
+  
+    /* Brytpunkter */
+    --breakpoint-mobile: 480px;
+    --breakpoint-tablet: 768px;
+    --breakpoint-desktop: 1024px;
+  
+    /* Exempel på z-index-variabler */
+    --z-index-header: 1000;
+    --z-index-modal: 2000;
+  }
+  
