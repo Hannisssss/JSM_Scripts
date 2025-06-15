@@ -1,0 +1,74 @@
+/* Ändra headern */
+#header, .cp-header {
+  background-color: var(--csn-dark-purple) !important;
+}
+
+.cv-bg-image, .help-center-custom-theme {
+  background: var(--csn-purple) !important;
+}
+
+.header-title, 
+.cv-custom-help-center-branding .header-description {
+  color: var(--csn-yellow) !important;
+  background: var(--csn-yellow) !important;
+}
+
+.cv-custom-help-center-branding .cp-header .cv-header-nav-button, 
+.cv-requests-nav__text {
+  background: var(--csn-yellow) !important;
+  border-radius: 4px;
+  border-color: var(--csn-yellow) !important;
+  color: black !important;
+  transition: background-color 50ms, transform 50ms;
+}
+
+.cv-header-nav-button:hover {
+  background-color: #ffd164 !important;
+  transform: scale(1.03);
+}
+
+/* Meddelandefält */
+.cv-portal-announcement {
+  background: var(--csn-light-pink) !important;
+}
+
+/* Länkar, rubriker och stark text */
+a, strong, h3 {
+  color: var(--csn-dark-purple) !important;
+}
+
+.cp-badge {
+  background: white !important;
+  color: black !important;
+}
+
+#content {
+  border-radius: 4px;
+}
+
+/* Sökfält */
+#sd-customer-portal-smart-search-input {
+  border-radius: 8px;
+}
+
+/* Sidans bakgrund */
+body {
+  background-color: var(--csn-bg-white) !important;
+}
+
+/* Färg på vissa textlänkar */
+.cv-active .cv-request-group-name, 
+.aui-button-link {
+  color: var(--csn-dark-purple) !important;
+}
+
+/* Överskrivning för breadcrumb-länk */
+.cv-breadcrumb-item-link {
+  color: black !important;
+}
+
+/* Global font och borttagning av bakgrundsbilder */
+* {
+  background-image: none !important;
+  font-family: 'Akkurat Pro', Arial, sans-serif;
+}
